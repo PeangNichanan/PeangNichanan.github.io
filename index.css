@@ -1,3 +1,10 @@
+
+a{
+    color: black;
+}
+a:hover{
+    color: wheat;
+}
 .all{
     /* background-color: #FF95AC; */
     background-image: url('./img/marble.jpg');
@@ -40,16 +47,6 @@
     border-top-right-radius: 30px;
     border-top-left-radius: 30px;
 }
-.thispage{
-    width: 16.67%;
-    background-color: #CD5C5C;
-    padding: 20px;
-    font-family: warmheart;
-    font-size: 18pt;
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
-    color: wheat;
-}
 
 .tab{
     width: 100%;
@@ -57,7 +54,6 @@
 }
 .tablinks:hover {
     background-color: #CD5C5C;
-    color: wheat;
 }
 .odd{background-color: #FFDEA9;}
 .even{background-color:#FF9AAE;}
